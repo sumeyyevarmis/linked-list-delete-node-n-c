@@ -1,0 +1,1 @@
+# linked-list-delete-node-n-c
